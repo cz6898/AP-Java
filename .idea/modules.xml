@@ -3,8 +3,12 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/AP Java.iml" filepath="$PROJECT_DIR$/AP Java.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Company/Company.iml" filepath="$PROJECT_DIR$/Company/Company.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Telephone/Telephone.iml" filepath="$PROJECT_DIR$/Telephone/Telephone.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Homework/Abstract Class Homework/Abstraction.iml" filepath="$PROJECT_DIR$/Homework/Abstract Class Homework/Abstraction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Classwork/Classwork.iml" filepath="$PROJECT_DIR$/Classwork/Classwork.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Homework/Abstract Class Homework/Company/Company.iml" filepath="$PROJECT_DIR$/Homework/Abstract Class Homework/Company/Company.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Homework/Homework.iml" filepath="$PROJECT_DIR$/Homework/Homework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Homework/Abstract Class Homework/Telephone/Telephone.iml" filepath="$PROJECT_DIR$/Homework/Abstract Class Homework/Telephone/Telephone.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Homework/Abstract Class Homework/Tickets/Tickets.iml" filepath="$PROJECT_DIR$/Homework/Abstract Class Homework/Tickets/Tickets.iml" />
     </modules>
   </component>
 </project>
